@@ -1,0 +1,16 @@
+*{
+font-size: 2.5vw;
+}
+
+body {
+	background-color: azure;
+}
+
+img {
+	width: 2vw;
+	height: auto;
+}
+
+tr {
+	text-align: center;
+}
